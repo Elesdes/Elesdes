@@ -7,4 +7,4 @@
     </a>
 </div>
 
-[![profile](https://github-profile-trophy.vercel.app/?username=Elesdes&theme=algolia&column=9)](https://github-profile-trophy.vercel.app/?username=Elesdes&theme=algolia&column=9)
+[![profile](https://github-profile-trophy.vercel.app/?username=Elesdes&theme=github_dark_dimmed&rank=-C,-B,-?)](https://github-profile-trophy.vercel.app/?username=Elesdes&theme=github_dark_dimmed&rank=-C,-B,-?)
