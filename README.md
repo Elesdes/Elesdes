@@ -7,7 +7,7 @@
             <img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elesdes&size_weight=0.5&count_weight=0.5&hide=Jupyter%20Notebook,HTML,JavaScript,css,Makefile,CMAKE,SCSS&theme=github_dark_dimmed" />
         </a>
         <a href="#" style="flex: 1">
-            <img width="10%" src="https://github-profile-trophy.vercel.app/?username=Elesdes&theme=github_dark_dimmed&rank=-C,-B,-?&column=1" />
+            <img width="10%" src="https://github-profile-trophy.vercel.app/?username=Elesdes&theme=algolia&rank=-C,-B,-?&column=1" />
         </a>
     </div>
 </div>
